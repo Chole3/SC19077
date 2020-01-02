@@ -1,0 +1,15 @@
+Package: SC19077
+Type: Package
+Title: Parameters Estimation of The Mixture of Two Normal Distributions
+Version: 1.0
+Date: 2020-01-01
+Author: Shan Pang
+Maintainer: Shan Pang <sp3@mail.ustc.edu.cn>
+Description: Give the estimations of parameters of the mixture of two normal distributions.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3), knitr, rmarkdown
+LinkingTo: Rcpp
+RoxygenNote: 7.0.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
